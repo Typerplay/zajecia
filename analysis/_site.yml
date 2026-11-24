@@ -10,7 +10,7 @@ navbar:
   - text: Coś
     href: Coś.html
   - text: CV
-    href: cv_template.html
+    href: cv1.html
 output:
   workflowr::wflow_html:
     toc: yes
