@@ -7,8 +7,10 @@ navbar:
     href: index.html
   - text: About
     href: about.html
-  - text: License
-    href: license.html
+  - text: Coś
+    href: Coś.html
+  - text: CV
+    href: cv_template.html
 output:
   workflowr::wflow_html:
     toc: yes
